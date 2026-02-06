@@ -17,7 +17,7 @@ It's a great way to understand how decisions are handled in C. :contentReference
 
 ---
 
-## 🛠️ Concepts Covered
+🛠️ Concepts Covered
 
 - `printf()` and `scanf()` for input/output  
 - `if`, `else`, and conditional logic  
@@ -26,7 +26,7 @@ It's a great way to understand how decisions are handled in C. :contentReference
 
 ---
 
-##  How to Compile & Run
+ How to Compile & Run
 
 1. Clone your repository:
    ```bash
