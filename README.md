@@ -1,4 +1,4 @@
-# Quiz Program Using `if-else` in C 🧠
+# Quiz Program Using `if-else` in C 
 
 A simple **quiz application written in C** that uses `if-else` statements to evaluate user answers and calculate a score.  
 This project is designed for beginners to practice **conditional logic** in C programming.
