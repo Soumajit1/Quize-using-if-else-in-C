@@ -26,7 +26,7 @@ It's a great way to understand how decisions are handled in C. :contentReference
 
 ---
 
-## ▶️ How to Compile & Run
+##  How to Compile & Run
 
 1. Clone your repository:
    ```bash
