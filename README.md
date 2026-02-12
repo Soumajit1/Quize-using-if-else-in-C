@@ -5,7 +5,7 @@ This project is designed for beginners to practice **conditional logic** in C pr
 
 ---
 
-## 📌 About
+## About
 
 This program:
 - Asks multiple questions to the user
