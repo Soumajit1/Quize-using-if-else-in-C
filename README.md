@@ -24,7 +24,7 @@ Concepts Covered
 - Variables and basic decision making  
 - Simple scoring logic
 
----
+--
 
  How to Compile & Run
 
