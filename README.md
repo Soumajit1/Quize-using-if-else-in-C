@@ -21,7 +21,7 @@ Concepts Covered
 - `if`, `else`, and conditional logic  
 - Variables and basic decision making  
 - Simple scoring logic
-
+2nd one
 --
 okkk
  How to Compile & Run
