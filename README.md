@@ -23,7 +23,7 @@ Concepts Covered
 - Simple scoring logic
 
 --
-ok
+okkk
  How to Compile & Run
 
 1. Clone your repository:
