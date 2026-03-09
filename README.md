@@ -25,7 +25,7 @@ Concepts Covered
 --
 okkk
  How to Compile & Run
-
+3ed one
 1. Clone your repository:
    ```bash
    git clone https://github.com/Soumajit1/Quize-using-if-else-in-C.git
