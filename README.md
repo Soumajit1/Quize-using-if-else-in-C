@@ -11,9 +11,7 @@ This program:
 - Checks answers using `if-else` blocks
 - Calculates a basic score and displays results
 
-It's a great way to understand how decisions are handled in C. :contentReference[oaicite:1]{index=1}
-
-
+It's a great way to understand how decisions are handled in C. :contentReference[oaicite:1]{index=1}ok
 1st one
 Concepts Covered
 
@@ -23,7 +21,7 @@ Concepts Covered
 - Simple scoring logic
 2nd one
 --
-okkk
+okkk,ok
  How to Compile & Run
 3ed one
 1. Clone your repository:
