@@ -9,7 +9,7 @@ This program:
 - Gets user input
 - Checks answers using `if-else` blocks
 - Calculates a basic score and displays results
-
+ij
 It's a great way to understand how decisions are handled in C. :contentReference[oaicite:1]{index=1}ok
 1st one
 Concepts Covered
