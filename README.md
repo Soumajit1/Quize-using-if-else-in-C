@@ -13,7 +13,7 @@ ij,OK
 It's a great way to understand how decisions are handled in C. :contentReference[oaicite:1]{index=1}ok
 1st one
 Concepts Covered
-ok,ok, ok.ok,ok
+ok,ok, ok.ok,ok,OK
 - `printf()` and `scanf()` for input/output  
 - `if`, `else`, and conditional logic  
 - Variables and basic decision making  
