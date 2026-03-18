@@ -19,6 +19,7 @@ ok,ok, ok.ok,ok,OK,OK,ok,ok,ok
 - Variables and basic decision making  
 - Simple scoring logic
 2nd one
+3ed one
 --
 okkk,okm
  How to Compile & Run
