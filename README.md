@@ -21,7 +21,7 @@ ok,ok, ok.ok,ok,OK,OK,ok,ok,ok
 2nd one
 3ed one
 --
-okkk,okm
+okkk,ok,ok
  How to Compile & Run
 3ed one
 1. Clone your repository:
