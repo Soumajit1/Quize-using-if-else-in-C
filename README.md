@@ -33,18 +33,4 @@ okkk,ok,ok,ok
 
 
 
-hiiii
-okeyyy
-okkkeyyy
-all good
-
-
-okkk
-hiiiii
-k
-
-
-
-
-hello
-okeyyyyyyyyyyyyyyyyyyy
+ok
